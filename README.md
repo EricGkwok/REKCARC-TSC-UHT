@@ -18,6 +18,11 @@
 
 继承自[Trinkle23897的项目](https://github.com/Trinkle23897/thu-cst-cracker)，删去了其中侵权内容。若还有任何侵权内容请在issues下指出，非常感谢。
 
+## 事件
+
+此时期发生一些情况。
+2019年4月15日，清华大学清新时报发布《深度|谁动了我的GPA？》，10分钟后被删除，许多地方有备份，包括：[github1](https://github.com/THUGPA/gpa.icu/blob/master/README.md?isappinstalled=0&from=timeline)、[github2](https://github.com/whoTouchedMyGPA/Who-touched-my-GPA/blob/master/README.md?from=timeline&isappinstalled=0)、[WordPress](https://wanghongjian.wordpress.com/2019/04/15/a-retrospective-of-gpa-reform-in-tsinghua-the-deleted-post/)等，另外见知乎上的[二次创作](https://zhuanlan.zhihu.com/p/62542537?utm_source=wechat_timeline&utm_medium=social&utm_oi=646378324247711744&wechatShare=2&s_r=0&s_s_i=Vo%2FAsK%2Fskt3S88KJH6FDwUPmznVuMMs0wr5o52%2Bm8lY%3D&from=timeline&isappinstalled=0)
+
 ## 目录
 
 本项目收录的内容见 [收录内容.md](收录内容.md)
